@@ -1,0 +1,85 @@
+
+.border-flex
+{
+}
+footer
+{
+background: #f2f2f2;
+height: 100px;
+font-size: 14px;
+color: #666666;
+font-family: Open Sans,Arial;
+}
+
+#search
+{
+  height : 34px ;
+  padding: 20px 10px;
+  width: 550px;
+  border-radius:30px;
+  border: none;
+}
+
+input
+{
+  border: none;
+}
+
+
+#submit1
+{
+background-color: #f5f5f5;
+height: 36px;
+line-height: 27px;
+border: 1px solid #f2f2f2;
+border-radius: 4px;
+font-size: 14px;
+color: #666666;
+font-family: Open Sans,Arial;
+}
+
+#input
+{
+width: 265px;
+display: flex;
+justify-content: space-between;
+}
+
+
+#submit2
+{
+background-color: #f5f5f5;
+height: 36px;
+line-height: 27px;
+border: 1px solid #f2f2f2;
+border-radius: 4px;
+font-size: 14px;
+color: #666666;
+font-family: Open Sans,Arial;
+}
+
+#img
+{
+display: flex;
+flex-direction: column;
+justify-content: center;
+justify-content: space-between;
+height: 200px;
+margin: auto;
+align-items: center;
+}
+
+#gmail
+{
+display: flex;
+justify-content: flex-end;
+}
+
+.gros-bloc
+{
+display:flex;
+flex-direction: column;
+justify-content: space-between;
+height: 700px;
+
+}
